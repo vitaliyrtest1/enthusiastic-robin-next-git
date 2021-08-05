@@ -262,5 +262,6 @@ seo:
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
+  title: Hello
 layout: advanced
 ---
